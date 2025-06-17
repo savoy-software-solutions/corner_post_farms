@@ -1,0 +1,16 @@
+h1 {
+    font-size: 60px;
+    color: blue;
+    text-align: center;
+}
+
+ul {
+    color: blue;
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+   display: inline;
+   padding: 12px;
+}
